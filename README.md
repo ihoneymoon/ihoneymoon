@@ -16,8 +16,6 @@
 
 ## 🌸 About Me
 
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220"/>
-
 - 🎓 I’m a Information Systems student
 - 🐍 Currently learning Python
 - 🎨 Exploring UI/UX with Figma
@@ -25,7 +23,14 @@
 - ☁️ My goal is to become a Cloud Engineer
 - 🚀 Still a beginner, but learning every day!
 
-<br clear="right"/>
+---
+
+## ⭐ My Goals
+
+- 🎮 Build my own simple game
+- 🌐 Learn Web Development (Frontend & Backend)
+- ☁️ Master Cloud (AWS / GCP)
+- 🚀 Understand Data & Systems 
 
 ---
 
@@ -110,28 +115,6 @@
 
 ---
 
-## ⭐ My Goals
-
-- 🎮 Build my own simple game
-- 🌐 Learn Web Development (Frontend & Backend)
-- ☁️ Master Cloud (AWS / GCP)
-- 🚀 Understand Data & Systems 
-
----
-
-## 🎮 Developer Level
-
-🌸 **LVL 2 Developer**  
-💗 [██████░░░░] 60%
-
-🌐 HTML    [██████░░░░] 60%  
-🎨 CSS     [█████░░░░░] 50%  
-☕ Java    [███░░░░░░░] 30%  
-🐍 Python  [████░░░░░░] 40%  
-🎀 Figma   [█████░░░░░] 50%  
-☁️ Cloud   [██░░░░░░░░] 20%  
-
----
 
 ## 💖 GitHub Stats
 
@@ -161,12 +144,11 @@
 
 ---
 
-## 🎮 Pixel Coding Vibes
+## 🎀 Coding Vibes
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 
 </div>
 
