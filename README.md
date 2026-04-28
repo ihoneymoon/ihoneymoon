@@ -6,7 +6,8 @@
 
 ### 🎓 Information Systems Student | ☁️ Future Cloud Engineer | 🎮 Game Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Keep+learning+%F0%9F%8C%B8;Software+Engineering+Bootcamp+Student;Future+Cloud+Engineer+%E2%98%81%EF%B8%8F;Game+Development+Enthusiast+%F0%9F%8E%AE" />
+<img src="https://readme-typing-svg.herokuapp.com?
+/>
 
 <br>
 
