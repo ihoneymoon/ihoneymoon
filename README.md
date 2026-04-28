@@ -14,21 +14,22 @@
 
 ## 🌷 About Me
 
-- 🎓 I’m a **2nd semester Information Systems student**
-- 🐍 Currently learning **Python**
-- 🎨 Exploring **UI/UX with Figma**
-- 🎮 Interested in **Game Development**
-- ☁️ My goal is to become a **Cloud Engineer**
+- 🎓 I’m a 2nd semester Information Systems student
+- 🐍 Currently learning Python
+- 🎨 Exploring UI/UX with Figma
+- 🎮 Interested in Game Development
+- ☁️ My goal is to become a Cloud Engineer
 - 🚀 Still a beginner, but learning every day!
 
 ---
 
 ## 🌸 Currently Learning
 
-- Python (Basic → Intermediate)
+- Python dasar
 - Git & GitHub
 - UI/UX Design (Figma)
-- Intro to Cloud Computing
+- Basic Cloud Computing
+- Web Development (HTML, CSS, Java)
 
 ---
 
@@ -42,12 +43,12 @@
 
 ---
 
-## 🎀 Future Goals
+## 🎀 My Goals
 
-- 🎮 Build my own **simple game**
-- 🌐 Learn **Web Development (Frontend & Backend)**
-- ☁️ Master **Cloud (AWS / GCP)**
-- 🚀 Understand **Data & Systems**
+- 🎮 Build my own simple game
+- 🌐 Learn Web Development (Frontend & Backend)
+- ☁️ Master Cloud (AWS / GCP)
+- 🚀 Understand Data & Systems
 
 ---
 
