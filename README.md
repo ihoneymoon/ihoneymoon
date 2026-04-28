@@ -147,8 +147,9 @@
 ## 🌸 Cozy Coding Vibes
 
 <div align="center">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="100%"/>
+<img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" width="100%"/>
 </div>
+
 ---
 
 ## 💌 Connect With Me
