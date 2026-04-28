@@ -121,34 +121,77 @@
 
 ## 🎮 Developer Level
 
-```txt
-LVL 2 Developer  [██████░░░░] 60%
+🌸 **LVL 2 Developer**  
+💗 [██████░░░░] 60%
 
-HTML        [██████░░░░] 60%
-CSS         [█████░░░░░] 50%
-Java        [███░░░░░░░] 30%
-Python      [████░░░░░░] 40%
-Figma       [█████░░░░░] 50%
-Cloud       [██░░░░░░░░] 20%
+🌐 HTML    [██████░░░░] 60%  
+🎨 CSS     [█████░░░░░] 50%  
+☕ Java    [███░░░░░░░] 30%  
+🐍 Python  [████░░░░░░] 40%  
+🎀 Figma   [█████░░░░░] 50%  
+☁️ Cloud   [██░░░░░░░░] 20%  
 
-💖 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ihoneymoon&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF69B4&icon_color=FFB6C1" />
+---
+
+## 💖 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ihoneymoon&show_icons=true&theme=rose_pine&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihoneymoon&layout=compact&theme=rose_pine&hide_border=true&title_color=FF69B4" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihoneymoon&layout=compact&theme=rose_pine&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihoneymoon&theme=rose-pine&hide_border=true" /> </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihoneymoon&theme=rose-pine&hide_border=true" />
 
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/USERNAME_GITHUB_KAMU/USERNAME_GITHUB_KAMU/output/snake.svg" alt="Snake animation" /> </div>
+</div>
 
-🌷 Pixel Coding Vibes
-<div align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="330"/> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/> </div>
+---
 
-💌 Connect With Me
-<div align="center"> <a href="https://github.com/ihoneymoon"> <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://instagram.com/ilvvee"> <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </div>
+## 🐍 Contribution Snake
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Keep+learning%2C+keep+building%2C+keep+dreaming+%F0%9F%8C%B8;Every+commit+is+a+step+forward+%F0%9F%92%97" /> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDDEE,50:F8BBD0,100:FFB6C1&height=120&section=footer" /> </div> ```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ihoneymoon/ihoneymoon/output/snake.svg" />
+
+</div>
+
+---
+
+## 🎮 Pixel Coding Vibes
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+</div>
+
+---
+
+## 💌 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ihoneymoon">
+  <img src="https://img.shields.io/badge/GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ilvvee">
+  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+🌸 *Keep learning, keep building, keep dreaming* 🌸
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDDEE,50:F8BBD0,100:FFC0CB&height=120&section=footer" />
+
+</div>
