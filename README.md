@@ -148,7 +148,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/8Km9tLL.gif" width="100%"/>
+<img src="https://i.imgur.com/5ZQZ1Zs.gif" width="100%"/>
 
 </div>
 
