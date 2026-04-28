@@ -144,11 +144,15 @@
 
 ---
 
-## 🎀 Coding Vibes
+## 🌸 Cozy Coding Vibes
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="520"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Coding+in+my+little+pink+setup+🌸;Learning+web+dev+step+by+step+💻;Future+Cloud+Engineer+☁️" />
 
 </div>
 
