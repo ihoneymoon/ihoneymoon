@@ -6,9 +6,6 @@
 
 ### 🎓 Information Systems Student | ☁️ Future Cloud Engineer | 🎮 Game Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?
-/>
-
 <br>
 
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="360"/>
