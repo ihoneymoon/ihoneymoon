@@ -17,8 +17,6 @@
 ## 🌸 About Me
 
 - 🎓 I’m a Information Systems student
-- 🐍 Currently learning Python
-- 🎨 Exploring UI/UX with Figma
 - 🎮 Interested in Game Development
 - ☁️ My goal is to become a Cloud Engineer
 - 🚀 Still a beginner, but learning every day!
